@@ -26,12 +26,12 @@ info:
   license:
     name: Apache 2.0
     url: 'https://app.sms.swifttdial.com'
-  servers:
+servers:
   - url: https://bulkdev.swifttdial.com:2778
     description: Sandbox server
   - url: //sms.api.swifttdial.com:2778
     description: Default server
-  tags:
+tags:
   - name: Bulk SMS
     description: Send Bulk Promotional or/and Transactional messages
   - name: Premium SMS/ subscription sms
